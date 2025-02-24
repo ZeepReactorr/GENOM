@@ -1,6 +1,7 @@
 # GENOM
 This project investigates the use of kmers to detect horizontal gene transfers.
 
+Authors: Bettiati Matteo, Pautet Florence, Hacquard Tristan.
 
 ## Utilisation:
 
